@@ -11,7 +11,7 @@ hugo
 cd public
 rm -r blog
 mkdir blog
-cp -r /Users/wang/blog/public/blog /Users/wang/My_Website/public/blog
+cp -r /Users/wang/blog/public/blog /Users/wang/My_Website/public/
 git add .
 git commit -m "Build website"
 git pull
