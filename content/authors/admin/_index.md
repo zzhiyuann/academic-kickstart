@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zhiyuan WANG
+name: Zhiyuanaaa
 
 # Username (this should match the folder name)
 authors:
