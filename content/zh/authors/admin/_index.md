@@ -36,6 +36,9 @@ education:
   - course: 实习生 SCSC实验室
     institution: 厦门大学信息学院
     year: 2018 - 至今
+  - course: 暑期学校 浙江大学物联网IoT科研暑校
+    institution: 浙江大学计算机学院
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
