@@ -65,3 +65,7 @@ user_groups:
 ---
 
 I am an undergraduate intern in Fujian key laboratory of sensing and computing for smart city (SCSC), Xiamen University. My research interests include ubiquitous computing and data mining. Bula Bula Bula.{{% staticref "files/zhiyuan_cv.pdf" %}}Download my CV{{% /staticref %}}
+
+
+
+![alternative text for search engines](https://blog-1258682992.cos.ap-chengdu.myqcloud.com/my_page/pic/%E6%88%AA%E5%B1%8F2020-03-08%20%E4%B8%8B%E5%8D%8810.38.59.png)

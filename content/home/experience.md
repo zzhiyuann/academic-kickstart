@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "RESEARCHES & INTERNSHIPS"
 subtitle = ""
@@ -25,10 +25,10 @@ date_format = "Jan 2006"
   date_start = "2019-03-01"
   date_end = "2019-11-01"
   description = """
-  
+
   * We propose a crowdsensing trend-based framework to accurately predict over-demand stations in bikesharing systems based on trend and effectively incentivize the users to help rebalancing bike based on the needs of the real world.
   * A paper ”A Crowdsensing Approach to Rebalancing Bike Based on Trend” is on work.
-  """
+    """
 
 [[experience]]
   title = "Spacialtemporal Neural Network Based Hospital Windows Scheduling"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   * We propose a spatiotemporal graph neural network (ST-GNN) model to accurately model and forecast the fine-grained hospital visit demand from real-world human mobility data. Then exploit an effective hospital windows scheduling strategy using queuing theory.
 
   * A paper “Demand-Responsive Windows Scheduling in Tertiary Hospital Leveraging Spatiotemporal Neural Networks” has been published in The 15th International Conference on Green, Pervasive and Cloud Computing (GPC2020).
-  """
+    """
 
 [[experience]]
   title = "Baidu-XMU Joint Research on the Spread of the COVID-19 Epidemic"
@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   * A visual interface was published to show the prediction results, and the models’ code has been opensource on my own Github with Baidu and XMU’s permission.
 
   * Working with the industrial company requests a normative collaboration and strict code format, which improved my coding skills and adaptable capabilities
-  """
+    """
 
  [[experience]]
   title = "Statistics and Epidemiology Based Research on the Impact of Human Mobility on the Spread of the COVID-19 Epidemic"
@@ -71,6 +71,6 @@ date_format = "Jan 2006"
 
   * By analyzing the correlation between the Spread of the COVID-19 and multiple factors, we estimated the probable effectiveness of different public health interventions, such as epicenter lockdown and citywide quarantine. And we interpret the the spread of the COVID-19 epidemic bases on our findings and discussions.
   * A paper ”Impact of Human Mobility on the Spread of the COVID-19 epidemic in China: a descriptive study” is on work.
-  """
+    """
 
 +++
