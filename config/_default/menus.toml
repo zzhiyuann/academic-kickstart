@@ -9,29 +9,24 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Education"
+  url = "#accomplishments"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Research"
+  url = "#experience"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Portfolio"
+  url = "#projects"
   weight = 40
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
 
 [[main]]
   name = "My Blog"  # A link title for your page.
   url = "https://zzhiyuann.cn/blog/"  # The URL of your page.
-  weight = 70  # The position of your page in the menu.
+  weight = 50  # The position of your page in the menu.
 
 
 # Link to a PDF of your resume/CV from the menu.

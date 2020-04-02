@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zhiyuan WANG
+name: 王志源
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate of Computer Science
+role: 计算机科学系本科生
 
 # Organizations/Affiliations
 organizations:
-- name: Xiamen University
+- name: 厦门大学
   url: "https://en.xmu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Ubiquitous Computing
-- Data Mining
-- Deep Learning
+- 普适计算
+- 数据挖掘
+- 深度学习
 
 education:
   courses:
-  - course: B.E. in Computer Science
-    institution: School of Informatics, Xiamen University
-    year: 2017 - Present
-  - course: Minor in Economics
-    institution: School of Economics, Xiamen University
-    year: 2018 - Present
-  - course: Member of SCSC
-    institution: School of Informatics, Xiamen University
-    year: 2018 - Present 
+  - course: 本科生 计算机科学与技术
+    institution: 厦门大学信息学院
+    year: 2017 - 至今
+  - course: 辅修 经济学
+    institution: 厦门大学经济学院
+    year: 2018 - 至今
+  - course: 实习生 SCSC实验室
+    institution: 厦门大学信息学院
+    year: 2018 - 至今
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-I am an undergraduate intern in Fujian key laboratory of sensing and computing for smart city (SCSC), Xiamen University. My research interests include ubiquitous computing and data mining. Bula Bula Bula.{{% staticref "files/zhiyuan_cv.pdf" %}}Download my CV{{% /staticref %}}
+我是王志源，是厦门大学信息学院[福建省智慧城市感知与计算重点实验室](https://scsc.xmu.edu.cn/)的一名本科实习生，我的导师是[陈龙彪](www.longbiaochen.com)助理教授。我现在的研究方向包括普适计算和数据挖掘。目前我正在做一些关于统计学、数据挖掘和时空图神经网络的研究，比如利用通过交通数据和地理信息的多源数据融合进行医疗资源的动态调度，利用宏微观人流数据和社会数据从生物统计学、计算机科学等多角度对疫情传播进行解释性研究。我非常期待探索有价值的研究领域并从事有意义的研究，如果您对我的经历感兴趣，请{{% staticref "files/zhiyuan_cv.pdf" %}}下载我的简历{{% /staticref %}}!
 
 
 
