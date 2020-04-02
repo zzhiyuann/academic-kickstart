@@ -9,7 +9,6 @@ git push -u origin master
 
 hugo
 cd public
-cp -r /Users/wang/blog/public /Users/wang/My_Website/public/blog
 git add .
 git commit -m "Build website"
 git pull
