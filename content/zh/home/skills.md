@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   icon = ""
   icon_pack = "fas"
-  name = "Statistics"
+  name = "统计学"
   description = "80%"  
 
 [[feature]]
   icon = ""
   icon_pack = "fas"
-  name = "Photography"
+  name = "摄影"
   description = "10%"
 
 +++
