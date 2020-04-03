@@ -6,10 +6,10 @@ tags:
 date: "2020-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://zzhiyuann.cn/hospital-traffic"
 
 image:
-  caption: Cancer Information Extraction System Cut
+  caption: Dynamic Urban Medical Resources Scheduling System
   focal_point: Smart
 
 url_code: ""
