@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+./view-scad.sh
+
 cd /Users/wang/My_Website/
 rm -r public
 git submodule add -f -b master https://github.com/zzhiyuann/zzhiyuann.github.io.git public
