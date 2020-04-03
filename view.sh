@@ -11,10 +11,9 @@ hugo
 cd public
 rm -r blog
 mkdir blog
-rm -r hospital-traffic
-mkdir hospital-traffic
-
-cp -r /Users/wang/scad-project/hospital-traffic/ /Users/wang/My_Website/public/
+# rm -r hospital-traffic
+# mkdir hospital-traffic
+# cp -r /Users/wang/scad-project/hospital-traffic/ /Users/wang/My_Website/public/
 cp -r /Users/wang/blog/public/blog /Users/wang/My_Website/public/
 git add .
 git commit -m "Build website"
