@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I am Zhiyuan Wang, an undergraduate assistant in Fujian key laboratory of sensing and computing for smart city ([SCSC](https://scsc.xmu.edu.cn/)) at Xiamen University, under the supervision of [Prof. Longbiao CHEN](https://www.longbiaochen.com). My research interests include ubiquitous computing and data mining. Recently, I am doing some awesome research based on statistics, data mining and spatiotemporal graph neural networks, such as dynamic scheduling the medical resources using fused multiple traffic data and geographic information data, and interpreting the spread of the epidemic using human mobility data and socioeconomic data. I am eagerly looking forward to exploring my future field for master and do meaningful research. If you're interested in my experience,  please {{% staticref "files/zhiyuan_cv.pdf" %}}download my CV{{% /staticref %}}!
+I am Zhiyuan Wang, an undergraduate assistant in Fujian key laboratory of sensing and computing for smart city ([SCSC](https://scsc.xmu.edu.cn/)) at Xiamen University (XMU), under the supervision of [Prof. Longbiao CHEN](https://www.longbiaochen.com). My research interests include ubiquitous computing and data mining. Recently, I am doing some awesome research based on statistics, data mining and spatiotemporal graph neural networks, such as dynamic scheduling the medical resources using fused multiple traffic data and geographic information data, and interpreting the spread of the epidemic using human mobility data and socioeconomic data. I am eagerly looking forward to exploring my future field for master and do meaningful research. If you're interested in my experience,  please {{% staticref "files/zhiyuan_cv.pdf" %}}download my CV{{% /staticref %}}!
 
 
 
