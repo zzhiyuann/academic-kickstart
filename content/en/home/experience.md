@@ -26,8 +26,14 @@ date_format = "Jan 2006"
   date_end = "2019-11-01"
   description = """
 
-  * We propose a crowdsensing trend-based framework to accurately predict over-demand stations in bikesharing systems based on trend and effectively incentivize the users to help rebalancing bike based on the needs of the real world.
-  * A paper ”A Crowdsensing Approach to Rebalancing Bike Based on Trend” is on work.
+We propose a crowdsensing trend-based framework to accurately predict over-demand stations in bikesharing systems based on trend and effectively incentivize the users to help rebalancing bike based on the needs of the real world.
+
+  * Process the raw data from SQL database into temporal sequence with MySQL and Pandas. 
+
+  * Propose an adaptive algorithm to extract the temporal pattern of the trend in bike stations innovatively.
+
+  * Conduct evaluation experiments of the paper, including the baselines and the BikeNet we proposed.
+
     """
 
 [[experience]]
@@ -39,10 +45,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * We propose a spatiotemporal graph neural network (ST-GNN) model to accurately model and forecast the fine-grained hospital visit demand from real-world human mobility data. Then exploit an effective hospital windows scheduling strategy using queuing theory.
+We propose a spatiotemporal graph neural network (ST-GNN) model to accurately model and forecast the fine-grained hospital visit demand from real-world human mobility data. Then exploit an effective hospital windows scheduling strategy using queuing theory.
 
-  * A paper “Demand-Responsive Windows Scheduling in Tertiary Hospital Leveraging Spatiotemporal Neural Networks” has been published in The 15th International Conference on Green, Pervasive and Cloud Computing (GPC2020).
-    """
+- Propose the project idea and write the main body of the paper.
+
+- Classify the urban functional areas and extract the human flow in hospitals by using improved machine learning algorithm and co-training framework with multi-source data fusion. 
+
+- Build a spatialtemporal graph neural network to predict hospital visit demand with Tensorflow.
+
+  """
 
 [[experience]]
   title = "Baidu-XMU Joint Research on the Spread of the COVID-19 Epidemic"
@@ -53,11 +64,11 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * I proposed two deep learning models to realize the [epidemic spreading prediction](https://risk-map.longbiaochen.com) respectively leveraging the human mobility big data provided by Baidu data federation.
+  * Build two deep learning models with Tensorflow and PaddlePaddle to realize the epidemic spreading prediction leveraging the human mobility big data provided by Baidu data federation.
 
-  * A visual interface was published to show the prediction results, and the models’ code has been opensource on [my own Github](https://github.com/zzhiyuann/PaddlePaddle-based-Spatiotemporal-models-of-COVID-19-spread) with Baidu and XMU’s permission.
+  * Publish a visualization system to show the prediction results, and open source my code on my own Github with Baidu and Xiamen University's permission.
 
-  * Working with the industrial company requests a normative collaboration and strict code format, which improved my coding skills and adaptable capabilities. [Relative report.](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)
+  * Working with the industrial company requests a normative collaboration and strict code format, which improved my coding skills and adaptable capabilities.[Relative report.](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)
     """
 
  [[experience]]
@@ -69,7 +80,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * By analyzing the correlation between the Spread of the COVID-19 and multiple factors, we estimated the probable effectiveness of different public health interventions, such as epicenter lockdown and citywide quarantine. And we interpret the the spread of the COVID-19 epidemic bases on our findings and discussions.
+ By analyzing the time-lag cross-correlation between the spread of the COVID-19 epidemic and multiple factors, we estimated the probable effectiveness of different public health interventions, such as epicenter lockdown and city-wide quarantine. And we interpret the the spread of the COVID-19 epidemic bases on our findings and discussions.
+
   * A paper ”Impact of Human Mobility on the Spread of the COVID-19 epidemic in China: a descriptive study” is on work.
     """
 
