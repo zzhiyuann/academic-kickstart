@@ -53,11 +53,11 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * I proposed two deep learning models using Tensorflow to realize the epidemic spreading prediction respectively leveraging the human mobility big data provided by Baidu data federation.
+  * I proposed two deep learning models to realize the [epidemic spreading prediction](https://risk-map.longbiaochen.com) respectively leveraging the human mobility big data provided by Baidu data federation.
 
-  * A visual interface was published to show the prediction results, and the models’ code has been opensource on my own Github with Baidu and XMU’s permission.
+  * A visual interface was published to show the prediction results, and the models’ code has been opensource on [my own Github](https://github.com/zzhiyuann/PaddlePaddle-based-Spatiotemporal-models-of-COVID-19-spread) with Baidu and XMU’s permission.
 
-  * Working with the industrial company requests a normative collaboration and strict code format, which improved my coding skills and adaptable capabilities
+  * Working with the industrial company requests a normative collaboration and strict code format, which improved my coding skills and adaptable capabilities. [Relative report.](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)
     """
 
  [[experience]]
