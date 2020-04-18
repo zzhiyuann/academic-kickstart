@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - 普适计算
 - 数据挖掘
-- 深度学习
+- 统计学习
 
 education:
   courses:
