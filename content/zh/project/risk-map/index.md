@@ -13,4 +13,4 @@ image:
   focal_point: Smart
 ---
 
-中国大陆主要城市 COVID-19 疫情传播风险预测系统。[相关新闻](https://information.xmu.edu.cn/info/1181/9308.htm)
+中国大陆主要城市 COVID-19 疫情传播风险预测系统。相关新闻:https://information.xmu.edu.cn/info/1181/9308.htm
