@@ -39,9 +39,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "北京大学、CCPC组委会"
+  organization = "北京大学、CCDC组委会"
   organization_url = ""
-  title = "全国二等奖 中国大学生程序设计竞赛（CCPC）大数据挑战赛（2%）"
+  title = "全国二等奖 中国大学生计算机设计竞赛（CCDC）大数据挑战赛（2%）"
   url = ""
   certificate_url = ""
   date_start = "2019-06-01"

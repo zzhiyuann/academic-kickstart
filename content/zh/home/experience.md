@@ -26,7 +26,8 @@ date_format = "Jan 2006"
   date_end = "2019-11-01"
   description = """
 
-  * 我们构建了一个基于群智感知和图神经网络的预测框架，对共享单车系统中的饱和站点进行精准的趋势预测，并提出了一套有效的用户激励策略使单车重新平衡。 
+  * 手动改进了一个能够提取时间序列变化趋势的自适应数据处理的自动化算法。
+  * 承担了绝大部分的论文实验，包括多种基线模型和我们所提出的 BikeNet 神经网络。****
   * 一篇论文 《A Crowdsensing Approach to Rebalancing Bike Based on Trend》 待投。
     """
 
@@ -39,9 +40,12 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * 我们提出基于真实世界人类活动数据的时空图神经网络(ST-GNN)模型，精确地模拟和预测医院就诊需求，并提出了一种有效的医院窗口调度算法。
+  * 在导师的指导下进行了完整的科研流程体验，并完成一篇论文的写作和中稿(GPC2020)。
 
-  * 一篇论文《Demand-Responsive Windows Scheduling in Tertiary Hospital Leveraging Spatiotemporal Neural Networks》已在“2020绿色、普适、云计算国际会议（GPC2020）”中稿。
+  *  多源数据融合协同训练框架结合改进的机器学习算法，对交通轨迹数据进行处理、挖掘。
+
+  * 利用 Tensorflow 搭建时空图神经网络 ST-GNN 预测医院的就诊需求并动态调度医疗资源。
+
     """
 
 [[experience]]
@@ -53,11 +57,11 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * 借助百度公司提供的人流大数据，我构建了两组深度学习模型以数据驱动的方法分别实现中国大陆城市疫情传播风险的预测，其克服了模型驱动算法的弊端。
+  * 借助百度大数据研究院提供的多尺度人群移动数据，利用 Keras 和 PaddlePaddle 深度学习框架搭建了两个时空深度学习模型用来实现中国大陆城市级别的疫情风险预测，克服了模型驱动算法的弊端。
 
   * 我们搭建了一个[可视化系统](risk-map.longbiaochen.com)用于展示预测结果。同时，经百度公司和厦门大学授权，模型代码开源在[我的Github](https://github.com/zzhiyuann/PaddlePaddle-based-Spatiotemporal-models-of-COVID-19-spread)中。
 
-  * 与工业界合作对严格的协作方式和规范的代码风格要求极高，我的代码水平和应变能力在此过程得到了提升。
+  * 我的业务水平和科研能力在和工业界对工作规范和代码要求极高的合作过程中得到提升。
     """
 
  [[experience]]
@@ -69,7 +73,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """ 
 
-- 通过分析疫情爆发与多种因素之间的关联性，我们科学地估计了不同公共卫生干预措施的可能有效性，如封城和限制出行。根据严格的生物统计学发现和讨论，我们对COVID-19的传播进行了具有统计学意义和创造性的解释。
+- 通过统计分析方法，我们揭示了 COVID-19 疫情传播与多种因素(例如城间人口迁徙、城内活动热度、天气因素、社会经济因素)之间的相关关系，并估计了不同公共卫生干预措施，如震中封锁、全市隔离的有效性。根据我们的统计分析结果和讨论，我们在某种程度上演绎了COVID-19的传播过程，解释了人群流动与疫情爆发之间具有统计学意义的关系。
 - 一篇论文 《Impact of Human Mobility on the Spread of the COVID-19 epidemic in China: a descriptive study》在研。
   """
 

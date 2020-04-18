@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Skills"
+title = "技能掌握"
 subtitle = ""
 
 # Showcase personal skills or business features.
