@@ -30,7 +30,7 @@ tags:
 featured: true
 
 links:
-url_pdf: /files/GPC2020.pdf
+url_pdf: https://blog-1258682992.cos.ap-chengdu.myqcloud.com/paper/GPC2020.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
