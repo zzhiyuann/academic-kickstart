@@ -62,6 +62,9 @@ date_format = "Jan 2006"
   * 我们搭建了一个[可视化系统](risk-map.longbiaochen.com)用于展示预测结果。同时，经百度公司和厦门大学授权，模型代码开源在[我的Github](https://github.com/zzhiyuann/PaddlePaddle-based-Spatiotemporal-models-of-COVID-19-spread)中。
 
   * 我的业务水平和科研能力在和工业界对工作规范和代码要求极高的合作过程中得到提升。
+    
+    ["演示文稿"](https://blog-1258682992.cos.ap-chengdu.myqcloud.com/My_website/coronavirus-v2.pptx)    ["相关报道"](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)
+    
     """
 
  [[experience]]

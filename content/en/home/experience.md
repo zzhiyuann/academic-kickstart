@@ -68,7 +68,9 @@ We propose a spatiotemporal graph neural network (ST-GNN) model to accurately mo
 
   * Publish a [visualization system](https://risk-map.longbiaochen.com) to show the prediction results, and open source my code on [my Github](https://github.com/zzhiyuann/PaddlePaddle-based-Spatiotemporal-models-of-COVID-19-spread) with Baidu and Xiamen University's permission.
 
-  * Working with the industrial company requests a normative collaboration and strict code format, which improved my coding skills and adaptable capabilities.[Relative report.](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)
+  * Working with the industrial company requests a normative collaboration and strict code format, which improved my coding skills and adaptable capabilities.
+    
+    ["slide"](https://blog-1258682992.cos.ap-chengdu.myqcloud.com/My_website/coronavirus-v2.pptx)    ["Relative Report."](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)
     """
 
  [[experience]]
