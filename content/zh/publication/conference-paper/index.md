@@ -3,6 +3,7 @@ title: "Demand-Responsive Windows Scheduling in Tertiary Hospital Leveraging Spa
 authors:
 - admin
 - 郭瑞英
+- 洪灵鸿
 - 王程
 - 陈龙彪*
 date: "2013-07-01T00:00:00Z"
