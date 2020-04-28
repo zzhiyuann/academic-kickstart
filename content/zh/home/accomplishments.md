@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "获奖经历"
+title = "主要获奖"
 subtitle = ""
 
 # Date format
@@ -25,16 +25,6 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2020-03-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "厦门大学"
-  organization_url = ""
-  title = "2017, 2018, 2019年厦门大学学业优秀奖学金（厦门大学前15%）"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-10-01"
   date_end = ""
   description = ""
 
@@ -68,24 +58,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "厦门大学"
-  organization_url = ""
-  title = "厦门大学三好学生（厦门大学前10%）"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-06-01"
-  date_end = ""
-  description = ""
 
-[[item]]
-  organization = "厦门大学"
-  organization_url = ""
-  title = "厦门大学优秀共青团员（厦门大学前5%）"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-06-01"
-  date_end = ""
-  description = ""
 
 +++
