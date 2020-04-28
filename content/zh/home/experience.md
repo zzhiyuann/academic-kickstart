@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
 
   * 手动改进了一个能够提取时间序列变化趋势的自适应数据处理的自动化算法。
-  * 承担了绝大部分的论文实验，包括多种基线模型和我们所提出的 BikeNet 神经网络。****
+  * 承担了部分的论文实验，包括多种基线模型和我们所提出的 BikeNet 神经网络。
   * 一篇论文 《A Crowdsensing Approach to Rebalancing Bike Based on Trend》 待投。
     """
 
@@ -40,9 +40,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * 在导师的指导下进行了完整的科研流程体验，并完成一篇论文的写作和中稿(GPC2020)。
+  * 在导师的指导下进行了完整的科研流程体验，并完成一篇论文的写作和录用(GPC2020)。
 
-  *  多源数据融合协同训练框架结合改进的机器学习算法，对交通轨迹数据进行处理、挖掘。
+  *  利用多源数据融合的协同训练框架，结合改进的机器学习算法，对交通轨迹数据进行处理、挖掘。
 
   * 利用 Tensorflow 搭建时空图神经网络 ST-GNN 预测医院的就诊需求并动态调度医疗资源。
 
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
 
   * 我们搭建了一个[可视化系统](https://risk-map.longbiaochen.com)用于展示预测结果。同时，经百度公司和厦门大学授权，模型代码开源在[我的Github](https://github.com/zzhiyuann/PaddlePaddle-based-Spatiotemporal-models-of-COVID-19-spread)中。
 
-  * 我的业务水平和科研能力在和工业界对工作规范和代码要求极高的合作过程中得到提升。
+  * 我的工程能力在和工业界的合作过程中得到提升。
     
     ["演示文稿"](https://blog-1258682992.cos.ap-chengdu.myqcloud.com/My_website/coronavirus_zhiyuan_v2.pdf)    ["相关报道"](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)
     
