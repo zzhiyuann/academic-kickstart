@@ -59,7 +59,7 @@ date_format = "Jan 2006"
 
   * 借助百度大数据研究院提供的多尺度人群移动数据，利用 Keras 和 PaddlePaddle 深度学习框架搭建了两个时空深度学习模型用来实现中国大陆城市级别的疫情风险预测，克服了模型驱动算法的弊端。
 
-  * 我们搭建了一个[可视化系统](risk-map.longbiaochen.com)用于展示预测结果。同时，经百度公司和厦门大学授权，模型代码开源在[我的Github](https://github.com/zzhiyuann/PaddlePaddle-based-Spatiotemporal-models-of-COVID-19-spread)中。
+  * 我们搭建了一个[可视化系统](https://risk-map.longbiaochen.com)用于展示预测结果。同时，经百度公司和厦门大学授权，模型代码开源在[我的Github](https://github.com/zzhiyuann/PaddlePaddle-based-Spatiotemporal-models-of-COVID-19-spread)中。
 
   * 我的业务水平和科研能力在和工业界对工作规范和代码要求极高的合作过程中得到提升。
     

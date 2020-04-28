@@ -60,7 +60,7 @@ Project: Information Extraction of Electronic Medical Record of Cancer · [[slid
   date_end = ""
   description = """
 
-Project: A Data-Driven Airport Taxi Scheduling Model · [[paper]]()
+Project: A Data-Driven Airport Taxi Scheduling Model · [[paper]](https://blog-1258682992.cos.ap-chengdu.myqcloud.com/My_website/CUMCM_zhiyuan.pdf)
 
   * Analyzed the taxi driver’s transport strategy through the data mining of taxi trajectory.
 * Introduced a framework based on monte carlo algorithms and queuing theory to formulate reasonable airport taxi management strategy."""

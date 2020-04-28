@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   date_end = "2019-09-01"
   description = """
 
-项目：一个数据驱动的机场出租车调度模型·[【论文】]()
+项目：一个数据驱动的机场出租车调度模型·[【论文】](https://blog-1258682992.cos.ap-chengdu.myqcloud.com/My_website/CUMCM_zhiyuan.pdf)
 
   * 通过出租车轨迹数据挖掘，分析机场出租车司机的载客策略。
 
