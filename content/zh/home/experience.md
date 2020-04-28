@@ -63,7 +63,7 @@ date_format = "Jan 2006"
 
   * 我的业务水平和科研能力在和工业界对工作规范和代码要求极高的合作过程中得到提升。
     
-    ["演示文稿"](https://blog-1258682992.cos.ap-chengdu.myqcloud.com/My_website/coronavirus-v2.pptx)    ["相关报道"](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)
+    ["演示文稿"](https://blog-1258682992.cos.ap-chengdu.myqcloud.com/My_website/coronavirus_zhiyuan_v2.pdf)    ["相关报道"](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)
     
     """
 
