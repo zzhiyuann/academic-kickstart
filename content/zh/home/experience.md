@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
   * 手动改进了一个能够提取时间序列变化趋势的自适应数据处理的自动化算法。
   * 承担了部分的论文实验，包括多种基线模型和我们所提出的 BikeNet 神经网络。
-  * 一篇论文 "A paper "RedPacketBike: Deep Bike Demand Forecast and Crowd-Driven Station Rebalancing for Bike Sharing Systems" is on submission" 正投。
+  * 一篇论文 "A paper "RedPacketBike: Deep Bike Demand Forecast and Crowd-Driven Station Rebalancing for Bike Sharing Systems" 在投。
     """
 
 [[experience]]
