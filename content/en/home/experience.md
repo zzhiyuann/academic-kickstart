@@ -28,11 +28,11 @@ date_format = "Jan 2006"
 
 We propose a crowdsensing trend-based framework to accurately predict over-demand stations in bikesharing systems based on trend and effectively incentivize the users to help rebalancing bike based on the needs of the real world.
 
-  * Process the raw data from SQL database into temporal sequence with MySQL and Pandas. 
-
   * Propose an adaptive algorithm to extract the temporal pattern of the trend in bike stations innovatively.
 
   * Conduct evaluation experiments of the paper, including the baselines and the BikeNet we proposed.
+
+  * A paper "RedPacketBike: Deep Bike Demand Forecast and Crowd-Driven Station Rebalancing for Bike Sharing Systems" is on submission.
 
     """
 
@@ -84,7 +84,7 @@ We propose a spatiotemporal graph neural network (ST-GNN) model to accurately mo
 
  By analyzing the time-lag cross-correlation between the spread of the COVID-19 epidemic and multiple factors, we estimated the probable effectiveness of different public health interventions, such as epicenter lockdown and city-wide quarantine. And we interpret the the spread of the COVID-19 epidemic bases on our findings and discussions.
 
-  * A paper ”Impact of Human Mobility on the Spread of the COVID-19 epidemic in China: a descriptive study” is on work.
+  * A paper "Impact of Human Mobility on the Spread of the COVID-19 epidemic in China: a descriptive study" is on work.
     """
 
 +++

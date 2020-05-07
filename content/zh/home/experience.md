@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
   * 手动改进了一个能够提取时间序列变化趋势的自适应数据处理的自动化算法。
   * 承担了部分的论文实验，包括多种基线模型和我们所提出的 BikeNet 神经网络。
-  * 一篇论文 《A Crowdsensing Approach to Rebalancing Bike Based on Trend》 待投。
+  * 一篇论文 "A paper "RedPacketBike: Deep Bike Demand Forecast and Crowd-Driven Station Rebalancing for Bike Sharing Systems" is on submission" 正投。
     """
 
 [[experience]]
@@ -77,7 +77,7 @@ date_format = "Jan 2006"
   description = """ 
 
 - 通过统计分析方法，我们揭示了 COVID-19 疫情传播与多种因素(例如城间人口迁徙、城内活动热度、天气因素、社会经济因素)之间的相关关系，并估计了不同公共卫生干预措施，如震中封锁、全市隔离的有效性。根据我们的统计分析结果和讨论，我们在某种程度上演绎了COVID-19的传播过程，解释了人群流动与疫情爆发之间具有统计学意义的关系。
-- 一篇论文 《Impact of Human Mobility on the Spread of the COVID-19 epidemic in China: a descriptive study》在研。
+- 一篇论文 "Impact of Human Mobility on the Spread of the COVID-19 epidemic in China: a descriptive study" 在研。
   """
 
 +++
