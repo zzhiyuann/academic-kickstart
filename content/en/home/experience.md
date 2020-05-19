@@ -70,7 +70,7 @@ We propose a spatiotemporal graph neural network (ST-GNN) model to accurately mo
 
   * Working with the industrial company requests a normative collaboration and strict code format, which improved my coding skills and adaptable capabilities.
     
-    ["slide"](https://blog-1258682992.cos.ap-chengdu.myqcloud.com/My_website/coronavirus_zhiyuan_v2.pdf)    ["Relative Report."](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)
+    ["Slide"](https://blog-1258682992.cos.ap-chengdu.myqcloud.com/My_website/coronavirus_zhiyuan_v2.pdf)    ["Relative Report."](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)   ["College News"](https://information.xmu.edu.cn/info/1181/9308.htm)
     """
 
  [[experience]]
