@@ -32,7 +32,7 @@ We propose a crowdsensing trend-based framework to accurately predict over-deman
 
   * Conduct evaluation experiments of the paper, including the baselines and the BikeNet we proposed.
 
-  * A paper "RedPacketBike: Deep Bike Demand Forecast and Crowd-Driven Station Rebalancing for Bike Sharing Systems" is on submission.
+  * A paper "RedPacketBike: Deep Bike Demand Forecast and Crowd-Driven Station Rebalancing for Bike Sharing Systems" is on submission to Ubicomp conference.
 
     """
 
