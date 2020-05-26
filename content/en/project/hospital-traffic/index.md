@@ -6,7 +6,7 @@ tags:
 date: "2020-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://zzhiyuann.cn/hospital-traffic"
+external_link: "http://apps.longbiaochen.com:8092/"
 
 image:
   caption: Dynamic Urban Medical Resources Scheduling System
