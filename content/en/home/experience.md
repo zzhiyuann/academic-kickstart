@@ -37,7 +37,7 @@ We propose a crowdsensing trend-based framework to accurately predict over-deman
     """
 
 [[experience]]
-  title = "Spacialtemporal Neural Network Based Hospital Windows Scheduling"
+  title = "Spatiotemporal Neural Network Based Hospital Windows Scheduling"
   company = "Project Manager"
   company_url = ""
   location = "Advisor: Longbiao CHEN"
