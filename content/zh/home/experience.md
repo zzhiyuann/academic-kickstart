@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "基于群智感知和图神经网络的单车调度 "
   company = "研究实习生"
   company_url = ""
-  location = "指导老师：陈龙彪"
+  location = "指导：陈龙彪"
   date_start = "2019-03-01"
   date_end = "2019-11-01"
   description = """
@@ -32,19 +32,17 @@ date_format = "Jan 2006"
     """
 
 [[experience]]
-  title = "基于时空图神经网络的医院窗口动态调度"
+  title = "医院患者人流建模、预测与医疗资源群智调度"
   company = "项目负责人"
   company_url = ""
-  location = "指导老师：陈龙彪"
+  location = "指导：陈龙彪、杨丁奇"
   date_start = "2019-11-01"
   date_end = ""
   description = """
 
-  * 在导师的指导下进行了完整的科研流程体验，并完成一篇论文的写作和录用(GPC2020)。
+  * 一篇关于医院人流建模、预测与医疗资源动态调度的论文已被第十五届绿色、普适、云计算国际会议（GPC2020）录用
 
-  *  利用多源数据融合的协同训练框架，结合改进的机器学习算法，对交通轨迹数据进行处理、挖掘。
-
-  * 利用 Tensorflow 搭建时空图神经网络 ST-GNN 预测医院的就诊需求并动态调度医疗资源。
+  * 一篇关于医院急诊人流细粒度、实时建模的论文已投稿至ACM普适计算国际会议（UbiComp2020）
 
     """
 
@@ -52,7 +50,7 @@ date_format = "Jan 2006"
   title = "厦大-百度COVID-19疫情联合研究"
   company = "项目骨干"
   company_url = ""
-  location = "指导老师：陈龙彪、熊昊一"
+  location = "指导：陈龙彪、熊昊一"
   date_start = "2020-01-01"
   date_end = ""
   description = """
@@ -71,7 +69,7 @@ date_format = "Jan 2006"
   title = "基于统计学和病毒传播学的人类移动性对COVID-19传播影响研究"
   company = "项目骨干"
   company_url = ""
-  location = "指导老师：陈龙彪、李奇渊"
+  location = "指导：陈龙彪、李奇渊"
   date_start = "2020-01-01"
   date_end = ""
   description = """ 

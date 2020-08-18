@@ -37,21 +37,17 @@ We propose a crowdsensing trend-based framework to accurately predict over-deman
     """
 
 [[experience]]
-  title = "Spatiotemporal Neural Network Based Hospital Windows Scheduling"
+  title = "Hospital Patient Flow Modeling, Prediction, and Medical Resources Scheduling"
   company = "Project Manager"
   company_url = ""
-  location = "Advisor: Longbiao CHEN"
+  location = "Advisor: Longbiao CHEN, Dingqi Yang"
   date_start = "2019-11-01"
   date_end = ""
   description = """
 
-We propose a spatiotemporal graph neural network (ST-GNN) model to accurately model and forecast the fine-grained hospital visit demand from real-world human mobility data. Then exploit an effective hospital windows scheduling strategy using queuing theory.
+- One paper about hospital visit demand modeling, prediction, and scheduling was accepted by The 15th International Conference on Green, Pervasive, and Cloud Computing (GPC2020).
 
-- Propose the project idea and write the main body of the paper.
-
-- Classify the urban functional areas and extract the human flow in hospitals by using improved machine learning algorithm and co-training framework with multi-source data fusion. 
-
-- Build a spatialtemporal graph neural network to predict hospital visit demand with Tensorflow.
+- One paper about fine-grained and timely modeling the emergency patient flow was recently submitted to UbiComp2020.
 
   """
 
