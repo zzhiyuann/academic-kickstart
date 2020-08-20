@@ -61,7 +61,7 @@ date_format = "Jan 2006"
 
   * 我的工程能力在和工业界的合作过程中得到提升。
     
-    ["演示文稿"](https://blog-1258682992.cos.ap-chengdu.myqcloud.com/My_website/coronavirus_zhiyuan_v2.pdf)    ["相关信息"](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)   ["学院新闻”](https://information.xmu.edu.cn/info/1181/9308.htm)
+     ["相关信息"](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)   ["学院新闻”](https://information.xmu.edu.cn/info/1181/9308.htm)
     
     """
 
