@@ -45,9 +45,9 @@ We propose a crowdsensing trend-based framework to accurately predict over-deman
   date_end = ""
   description = """
 
-- One paper about hospital visit demand modeling, prediction, and scheduling was accepted by The 15th International Conference on Green, Pervasive, and Cloud Computing (GPC2020).
+- One paper on hospital visit demand modeling, prediction, and scheduling "Demand-Responsive Windows Scheduling in Tertiary Hospital Leveraging Spatiotemporal Neural Networks" was accepted by The 15th International Conference on Green, Pervasive, and Cloud Computing (GPC2020).
 
-- One paper about fine-grained and timely modeling the emergency patient flow was recently submitted to UbiComp2020.
+- One paper about fine-grained and timely modeling the emergency patient flow "Will you see an overcrowded hospital? Modeling Hospital Emergency Patient Flow Using Open Government Data" was recently submitted to UbiComp2020.
 
   """
 
