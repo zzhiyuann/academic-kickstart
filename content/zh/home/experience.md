@@ -40,9 +40,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * 一篇关于医院人流建模、预测与医疗资源动态调度的论文已被第十五届绿色、普适、云计算国际会议（GPC2020）录用
+  * 一篇关于医院人流建模、预测与医疗资源动态调度的论文“Demand-Responsive Windows Scheduling in Tertiary Hospital Leveraging Spatiotemporal Neural Networks”已被第十五届绿色、普适、云计算国际会议（GPC2020）录用
 
-  * 一篇关于医院急诊人流细粒度、实时建模的论文已投稿至ACM普适计算国际会议（UbiComp2020）
+  * 一篇关于医院急诊人流细粒度、实时建模的论文“Will you see an overcrowded hospital? Modeling Hospital Emergency Patient Flow Using Open Government Data”已投稿至ACM普适计算领域会议（UbiComp2020）
 
     """
 
