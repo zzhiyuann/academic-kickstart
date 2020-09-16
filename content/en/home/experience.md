@@ -64,9 +64,9 @@ We propose a crowdsensing trend-based framework to accurately predict over-deman
 
   * Publish a [visualization system](https://risk-map.longbiaochen.com) to show the prediction results, and open source my code on [my Github](https://github.com/zzhiyuann/PaddlePaddle-based-Spatiotemporal-models-of-COVID-19-spread) with Baidu and Xiamen University's permission.
 
-  * Working with the industrial company requests a normative collaboration and strict code format, which improved my coding skills and adaptable capabilities.
+  * This work was presented in the [2020 Baidu World Conference](https://news.cgtn.com/news/2020-09-14/Live-Virtual-Baidu-World-Conference-2020-features-frontier-technology-TMvJmSqLJe/index.html) as one of three highlight applications against COVID-19.
     
-     ["Relative Report."](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)   ["College News"](https://information.xmu.edu.cn/info/1181/9308.htm)
+     [Relative Report](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/) [ College News 1](https://information.xmu.edu.cn/info/1181/9308.htm)	[College News 2](https://informatics.xmu.edu.cn/info/1033/15611.htm)	
     """
 
  [[experience]]

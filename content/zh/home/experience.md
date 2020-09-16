@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   title = "医院患者人流建模、预测与医疗资源群智调度"
   company = "项目负责人"
   company_url = ""
-  location = "指导：陈龙彪、杨丁奇"
+  location = "指导合作：陈龙彪、杨丁奇"
   date_start = "2019-11-01"
   date_end = ""
   description = """
@@ -48,9 +48,9 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "厦大-百度COVID-19疫情联合研究"
-  company = "项目骨干"
+  company = "项目负责人"
   company_url = ""
-  location = "指导：陈龙彪、熊昊一"
+  location = "指导合作：陈龙彪、熊昊一"
   date_start = "2020-01-01"
   date_end = ""
   description = """
@@ -59,17 +59,17 @@ date_format = "Jan 2006"
 
   * 我们搭建了一个[可视化系统](https://risk-map.longbiaochen.com)用于展示预测结果。同时，经百度公司和厦门大学授权，模型代码开源在[我的Github](https://github.com/zzhiyuann/PaddlePaddle-based-Spatiotemporal-models-of-COVID-19-spread)中。
 
-  * 我的工程能力在和工业界的合作过程中得到提升。
+  * 此项工作作为百度公司与高校抗疫合作三个亮点应用之一，由百度研究院于2020年9月15日通过央视在[2020百度世界大会](https://news.cgtn.com/news/2020-09-14/Live-Virtual-Baidu-World-Conference-2020-features-frontier-technology-TMvJmSqLJe/index.html)发布。
     
-     ["相关信息"](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)   ["学院新闻”](https://information.xmu.edu.cn/info/1181/9308.htm)
-    
+     [相关报道](https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/)   [学院表彰1](https://information.xmu.edu.cn/info/1181/9308.htm)	 [学院表彰2](https://informatics.xmu.edu.cn/info/1033/15611.htm)	
+        
     """
 
  [[experience]]
   title = "基于统计学和病毒传播学的人类移动性对COVID-19传播影响研究"
   company = "项目骨干"
   company_url = ""
-  location = "指导：陈龙彪、李奇渊"
+  location = "指导合作：陈龙彪、李奇渊"
   date_start = "2020-01-01"
   date_end = ""
   description = """ 
