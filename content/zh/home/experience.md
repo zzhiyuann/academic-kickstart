@@ -66,7 +66,7 @@ date_format = "Jan 2006"
     """
 
  [[experience]]
-  title = "基于统计学和病毒传播学的人类移动性对COVID-19传播影响研究"
+  title = "人类移动性对COVID-19疫情传播影响的描述性研究"
   company = "项目骨干"
   company_url = ""
   location = "指导合作：陈龙彪、李奇渊"

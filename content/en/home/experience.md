@@ -55,7 +55,7 @@ We propose a crowdsensing trend-based framework to accurately predict over-deman
   title = "Baidu-XMU Joint Research on the Spread of the COVID-19 Epidemic"
   company = "Key Researcher"
   company_url = ""
-  location = "Supervisor: Longbiao CHEN, Haoyi XIONG"
+  location = "Advisor: Longbiao CHEN, Haoyi XIONG"
   date_start = "2020-01-01"
   date_end = ""
   description = """
@@ -70,10 +70,10 @@ We propose a crowdsensing trend-based framework to accurately predict over-deman
     """
 
  [[experience]]
-  title = "Statistics and Epidemiology Based Research on the Impact of Human Mobility on the Spread of the COVID-19 Epidemic"
+  title = "A Descriptive Study on the Impact of Human Mobility on the Spread of the COVID-19 epidemic"
   company = "Key Researcher"
   company_url = ""
-  location = "Supervisor: Longbiao CHEN, Qiyuan LI"
+  location = "Advisor: Longbiao CHEN, Qiyuan LI"
   date_start = "2020-01-01"
   date_end = ""
   description = """
