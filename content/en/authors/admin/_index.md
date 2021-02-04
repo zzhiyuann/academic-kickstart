@@ -29,16 +29,10 @@ education:
   courses:
   - course: B.E. in Computer Science
     institution: School of Informatics, Xiamen University
-    year: 2017 - Present
-  - course: Minor in Economics
-    institution: School of Economics, Xiamen University
-    year: 2018 - Present
-  - course: Member of SCSC
-    institution: School of Informatics, Xiamen University
-    year: 2018 - Present 
-  - course: Summer School of Internet of Things (IoT) Scientific Research
-    institution: College of Computer Science and Technology, Zhejiang University
-    year: 2019
+    year: 2017 - 2021
+  - course: Ph.D in System Engineering
+    institution: School of Engineering and Applied Science, University of Virginia
+    year: 2021 - Present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
