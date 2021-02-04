@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-<!-- [[item]]
+[[item]]
   organization = "China Society for Industrial and Applied Mathematics"
   organization_url = ""
   title = "First prize of Fujian Provnice, China Mathematical Contest in Modeling (Top 5% in Fujian Province)"
@@ -66,6 +66,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-06-01"
   date_end = ""
-  description = "" -->
+  description = ""
 
 +++
